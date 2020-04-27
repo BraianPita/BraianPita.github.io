@@ -107,7 +107,7 @@
 					
 					
 					$from = $_POST['email'];
-					$to = "drpatel8@uh.edu";
+					$to = "braianx100@gmail.com";
 					$subject = "Website Contact Request";
 
 					$headers  = "From: $from\r\n"; 
